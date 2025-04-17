@@ -1,4 +1,4 @@
-# Cyber Risk Assessment and Threat Modeling Lab
+# Cyber Risk Assessment Lab
 
 ## Project Overview
 This cyber risk assessment and threat modeling lab simulates a real-world security evaluation lifecycle for a web application. In this project I will design a login portal using Flask, then perform vulnerability assessments, implement patches, and test the patches to see if they mitigated any vulnerabilities.
